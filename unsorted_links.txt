@@ -1,0 +1,10 @@
+https://www.eecis.udel.edu/~wkillian/latest/resources/Parallelization.of.Machine.Learning.Applied.to.Call.Graphs.of.Binaries.for.Malware.Detection.pdf
+https://github.com/tristanvdb/pairwise-graph-similarities
+https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/slides/CA10_GraphKernels_intro.pdf
+https://github.com/gmum/pykernels
+https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-IST-091/MP-IST-091-26.pdf
+https://static.googleusercontent.com/media/www.zynamics.com/en//downloads/bindiffsstic05-1.pdf
+https://static.googleusercontent.com/media/www.zynamics.com/en//downloads/dimva_paper2.pdf
+http://www.stat.purdue.edu/~vishy/talks/Graphs.pdf
+http://www.sciencedirect.com/science/article/pii/S0893965907001012
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC110779/
