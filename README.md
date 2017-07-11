@@ -88,7 +88,8 @@ example tools, etc
    > Halvar :heart:
 * [BinClone]
    > From their GH: M. R. Farhadi, B. C. M. Fung, P. Charland, and M. Debbabi. B
-
+* [DarunGrim]
+   > 
 
 [OpenREIL]: https://github.com/Cr4sh/openreil
 [cr4sh]: https://twitter.com/cr4sh
@@ -104,7 +105,7 @@ example tools, etc
 [Diaphora]: https://github.com/joxeankoret/diaphora
 [Bindiff]: https://www.zynamics.com/software.html
 [BinClone]: https://github.com/BinSigma/BinClone
-
+[DarunGrim]: http://www.darungrim.org/
 
 # Still need to read:
 https://static.googleusercontent.com/media/www.zynamics.com/en//downloads/dimva_paper2.pdf
