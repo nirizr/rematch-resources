@@ -56,7 +56,6 @@ example tools, etc
    > after reverse engineering the whole product by accident).
    > Unlike the previous paper, they present the problem along with a practical solution followed by pseudocode
    > TBC
-*   
 
 
 # Frameworks
@@ -78,24 +77,24 @@ example tools, etc
   > the core operations of diffing, but lacks UX and the like.
   > I've read the code long ago but I don't quite remember much from, it's not an IDA plugin. 
   > TBC
-   
+
+
+# Still need to read:
+* https://static.googleusercontent.com/media/www.zynamics.com/en//downloads/dimva_paper2.pdf
+* https://www.stat.purdue.edu/~vishy/talks/Graphs.pdf
+* https://www.sciencedirect.com/science/article/pii/S0893965907001012
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC110779/
+* https://www.sstic.org/media/SSTIC2017/SSTIC-actes/bincat_purrfecting_binary_static_analysis/SSTIC2017-Article-bincat_purrfecting_binary_static_analysis-biondi_rigo_zennou_mehrenberger.pdf
+* https://github.com/facebookresearch/faiss
 
 [OpenREIL]: https://github.com/Cr4sh/openreil
 [cr4sh]: https://twitter.com/cr4sh
 [MCSema]: https://github.com/trailofbits/mcsema
 [manticore]: https://github.com/trailofbits/manticore
 [GRAP]: https://bitbucket.org/cybertools/grap
-[Parallelization of Machine Learning Applied to Call Graphs of Binaries for Malware Detection]: [https://www.eecis.udel.edu/~wkillian/latest/resources/Parallelization.of.Machine.Learning.Applied.to.Call.Graphs.of.Binaries.for.Malware.Detection.pdf
+[Parallelization of Machine Learning Applied to Call Graphs of Binaries for Malware Detection]: https://www.eecis.udel.edu/~wkillian/latest/resources/Parallelization.of.Machine.Learning.Applied.to.Call.Graphs.of.Binaries.for.Malware.Detection.pdf
 [Pairwise Graph Similarities using Shortest Path Graph Kernel]: https://github.com/tristanvdb/pairwise-graph-similarities
 [An Introduction to Graph Kernels]: https://www.ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/slides/CA10_GraphKernels_intro.pdf
 [PyKernels]: https://github.com/gmum/pykernels
 [Automated Attacker Correlation for Malicious Code]:  https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-IST-091/MP-IST-091-26.pdf
 [Graph Based Comparison of Executable Objects]: https://static.googleusercontent.com/media/www.zynamics.com/en//downloads/bindiffsstic05-1.pdf
-
-
-# Still need to read:
-https://static.googleusercontent.com/media/www.zynamics.com/en//downloads/dimva_paper2.pdf
-http://www.stat.purdue.edu/~vishy/talks/Graphs.pdf
-http://www.sciencedirect.com/science/article/pii/S0893965907001012
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC110779/
-
